@@ -32,7 +32,6 @@
 <div align='center' markdown="1">
 
 ### My Github Stats
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amish1999&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=79ff97&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Amish's Github Stats">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=amish1999.amish1999)
  
