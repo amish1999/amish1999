@@ -34,6 +34,6 @@
 ### My Github Stats
 
 ![Amish's github stats](https://github-readme-stats.vercel.app/api/?username=amish1999&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=amish1999.amish1999)
  
  </div>
