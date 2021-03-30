@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! My name is Amish. 👋🤓</h2>
+<h2 align="center">Hello there! My name is Amish. 👋😄</h2>
 <p align='center'>
  <a href="https://www.instagram.com/amishbharti/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/amishbharti"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
