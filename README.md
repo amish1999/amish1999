@@ -9,7 +9,7 @@
 
 </div>
 
-<p align="center">I am a 3rd Year undergraduate student at National Institute of Technology Durgapur. I aspire to be a valuable resource in society; help develop software that is going to meet individual client needs. Being a team player with strong analytical and problem solving skills I come up with creative solutions for complex problems. I am an active blogger and passionate about inclusion of creativity in computing. Being pragmatic by nature, I inhabit an up help desire and straight forward outlook. I believe in constant learning and exploring new things; wish to travel the world and try every cuisine.
+<p align="center">I am a Final Year undergraduate student at National Institute of Technology Durgapur. I aspire to be a valuable resource in society; help develop software that is going to meet individual client needs. Being a team player with strong analytical and problem solving skills I come up with creative solutions for complex problems. I am an active blogger and passionate about inclusion of creativity in computing. Being pragmatic by nature, I inhabit an up help desire and straight forward outlook. I believe in constant learning and exploring new things; wish to travel the world and try every cuisine.
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
